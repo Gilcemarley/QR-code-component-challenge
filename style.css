@@ -1,0 +1,46 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: outfit;
+   
+}
+@media only screen and (max-width: 375px) {
+    body {
+      font-size: 12px;
+      width: 100%;
+      margin: 0;
+    }
+  }
+.image{
+  border-radius: 5px;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+}
+.qrcode{
+  margin: 100px auto;
+  border-radius: 15px;
+  width: 200px;
+  padding: 20px;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+}
+.textqr{
+  text-align: center;
+  
+  background-color: hsl(0, 0%, 100%);
+}
+.title{
+  font-size: large;
+  font-weight: bold;
+  color: hsl(218, 44%, 22%);
+}
+.text{
+  color: hsl(212, 45%, 89%);
+  font-size: 12px;
+}
+a {
+    color: hsl(218, 44%, 22%);
+}
+p{
+    font-size: 15px;
+}
