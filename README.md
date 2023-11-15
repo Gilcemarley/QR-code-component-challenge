@@ -23,6 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - Gilcemar - https://www.linkedin.com/in/gilcemarley/
-- Frontend Mentor - [@poltronaweb](https://www.instagram/poltronaweb)
+- Frontend Mentor - [@poltronaweb](https://www.instagram.com/poltronaweb)
 
 
