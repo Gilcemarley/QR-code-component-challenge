@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/Gilcemarley/QR-code-component-challenge/tree/main
+- Solution URL: [https://github.com/Gilcemarley/QR-code-component-challenge/tree/main](https://gilcemarley.github.io/QR-code-component-challenge/)
 
 	
 ### Built with
